@@ -5,7 +5,7 @@
  */
 
 
-public class latihan {
+public class Latihan {
     
     /**
      *
